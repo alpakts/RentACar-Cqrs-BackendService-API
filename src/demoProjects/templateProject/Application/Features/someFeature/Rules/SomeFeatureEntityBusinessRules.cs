@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Application.Features.someFeature.Rules
 {
-    public class SomeFeatureEntityBusinessRules
+    public class BrandBusinessRules
     {
         private readonly ISomeFeatureEntityRepository _someFeatureEntityRepository;
 
